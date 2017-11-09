@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://qianqian20170929.github.io/sitemap.xml 
