@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://qianqian20170929.github.io
+title: Hackx Blog
+subtitle: Memory is unreliable like a software, so make my thoughts more eternal and my software more reliable
+author: qianqian20170929
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: qianqian20170929@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
