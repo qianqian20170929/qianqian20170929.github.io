@@ -4,7 +4,7 @@
   <title><![CDATA[Hackx Blog]]></title>
   <link href="http://qianqian20170929.github.io/atom.xml" rel="self"/>
   <link href="http://qianqian20170929.github.io/"/>
-  <updated>2017-11-09T17:44:42+08:00</updated>
+  <updated>2017-11-15T09:44:49+08:00</updated>
   <id>http://qianqian20170929.github.io/</id>
   <author>
     <name><![CDATA[qianqian20170929]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Data-pipeline-tools-research]]></title>
+    <link href="http://qianqian20170929.github.io/blog/2017/11/15/data-pipeline-tools-research/"/>
+    <updated>2017-11-15T09:28:21+08:00</updated>
+    <id>http://qianqian20170929.github.io/blog/2017/11/15/data-pipeline-tools-research</id>
+    <content type="html"><![CDATA[<p><img src="http://qianqian20170929.github.io/images/blogs/data-pipeline-tools-research-1.jpeg" title="数据pipeline工具对比" alt="数据pipeline工具对比" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>

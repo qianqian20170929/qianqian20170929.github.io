@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://qianqian20170929.github.io/blog/2017/11/15/data-pipeline-tools-research/</loc>
+<lastmod>2017-11-15T09:28:21+08:00</lastmod>
+</url>
+<url>
 <loc>http://qianqian20170929.github.io/blog/2017/11/09/hello-octopress/</loc>
 <lastmod>2017-11-09T17:00:09+08:00</lastmod>
 </url>
