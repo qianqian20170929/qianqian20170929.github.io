@@ -4,7 +4,7 @@
   <title><![CDATA[Hackx Blog]]></title>
   <link href="http://qianqian20170929.github.io/atom.xml" rel="self"/>
   <link href="http://qianqian20170929.github.io/"/>
-  <updated>2017-11-26T15:06:55+08:00</updated>
+  <updated>2017-11-26T16:16:16+08:00</updated>
   <id>http://qianqian20170929.github.io/</id>
   <author>
     <name><![CDATA[qianqian20170929]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Git Basic]]></title>
+    <link href="http://qianqian20170929.github.io/blog/2017/11/26/git-basic/"/>
+    <updated>2017-11-26T16:10:45+08:00</updated>
+    <id>http://qianqian20170929.github.io/blog/2017/11/26/git-basic</id>
+    <content type="html"><![CDATA[<p>!git basic](/images/blogs/git-basic.png &ldquo;git basic&rdquo;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Simple_microservice_architecture]]></title>
