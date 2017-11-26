@@ -1,0 +1,9 @@
+---
+layout: post
+title: "git basic"
+date: 2017-11-26 16:10:45 +0800
+comments: true
+categories: 
+---
+
+!git basic](/images/blogs/git-basic.png "git basic")
