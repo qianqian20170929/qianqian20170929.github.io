@@ -4,7 +4,7 @@
   <title><![CDATA[Hackx Blog]]></title>
   <link href="http://qianqian20170929.github.io/atom.xml" rel="self"/>
   <link href="http://qianqian20170929.github.io/"/>
-  <updated>2017-11-26T16:18:48+08:00</updated>
+  <updated>2017-11-30T13:26:10+08:00</updated>
   <id>http://qianqian20170929.github.io/</id>
   <author>
     <name><![CDATA[qianqian20170929]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yanr-architecture-and-workflow]]></title>
+    <link href="http://qianqian20170929.github.io/blog/2017/11/30/yanr-architecture-and-workflow/"/>
+    <updated>2017-11-30T13:21:28+08:00</updated>
+    <id>http://qianqian20170929.github.io/blog/2017/11/30/yanr-architecture-and-workflow</id>
+    <content type="html"><![CDATA[<h2>yarn workflow</h2>
+
+<p><img src="http://qianqian20170929.github.io/images/blogs/yarn-workflow.png" title="yarn workflow" alt="yarn workflow" /></p>
+
+<h2>yarn architecture</h2>
+
+<p><img src="http://qianqian20170929.github.io/images/blogs/yarn-architecture.png" title="yarn architecture" alt="yarn architecture" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Git Basic]]></title>
